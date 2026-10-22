@@ -2,19 +2,9 @@
 
 An interactive sales analytics dashboard built with Microsoft Power BI to analyze revenue, transaction volume, sales quantities, budget performance, and sales contributions across channels, managers, supervisors, products, and salespeople. This project demonstrates data cleaning, DAX-based revenue calculation, interactive filtering, dynamic Top/Bottom analysis, and custom tooltip design using sample sales data.
 
-## 🎬 Demo Issue
+## 🎥 Dashboard Walkthrough
 
 <video src="https://github.com/user-attachments/assets/c552aa99-7d0f-43b5-9bae-be54a36ecfb9" controls width="100%"></video>
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/c552aa99-7d0f-43b5-9bae-be54a36ecfb9">
-    🎬 Watch Demo Video
-  </a>
-</p>
-
-## Demo Direct
-<video src="./screenshots/Sales%20Dashboard%20Demo.mp4" controls width="100%"></video>
-
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
